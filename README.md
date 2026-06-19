@@ -45,6 +45,9 @@ Adjust baud rate / device settings in `platformio.ini` if needed.
 ## License
 This project is licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may use this code for personal or research purposes only. Redistribution is not allowed.
 
+## Disclaimer
+The hardware and software in this project are provided "as-is" without any express or implied warranty. The authors, contributors, and sellers (including the Tokopedia store linked below) do not accept responsibility for any damage to devices, data loss, personal injury, or other loss arising from the use, testing, or modification of this product. Use and operation of the device are at your own risk; no guarantee of functionality, longevity, or safety is provided.
+
 ## Where to Buy
 This hardware is available on Tokopedia (ESP32-S3 camera boards and OV5640/OV2640 modules) Smart Electronics Store:
 
